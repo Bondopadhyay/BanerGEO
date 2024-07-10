@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to left, rgb(178, 236, 255), rgb(245, 255, 245));
+    min-height: 150vh;
+    display: flex;
+    flex-direction: column;
+}
+
+header, nav, main {
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around ;
+}
+
+nav li {
+    margin-right: 10px;
+}
+
+nav a {
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: solid, underline ;
+}
+
+nav a:hover {
+    color: #3d00cc;
+}
+
+.frosted-glass {
+    background: rgba(255, 255, 255, 0.192);
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -5px 15px rgba(0,0,0,0.2);
+    flex-shrink: 0;
+    margin-top: auto;
+}
+
+main {
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #111111;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+h2{
+
+        font-size: 20;
+        color: #111111;
+        margin-left: 20px;
+        margin-top: 40px;
+}
+
+p {
+    font-size: 20px;
+    color: #000000;
+    margin-left: 20px;
+}
+
+/* Element-page */
+
+element-content {
+    font-size: 20px;
+    color: #000000;
+    margin-left: 00px;
+
+}
+
+p2 {
+    font-size: 15px;
+    color: #532d69;
+}
+
+#earth-logo {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+
