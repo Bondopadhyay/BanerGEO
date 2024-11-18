@@ -1,2 +1,4 @@
-# BanerGEO
-## Curated Remote Sensing and GIS-based hosted workflows and knowledgeable elements | Anirban Banerjee
+## <ins> BanerGEO </ins>
+### A Github site for Selected Remote Sensing and Geospatial Science-GIS-based workflows and knowledgeable elements
+
+### - Curated by Anirban Banerjee
